@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://triptiratn.github.io/blog.junkjam.in/sitemap.xml 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[JunkJam Blog]]></title>
+  <link href="http://triptiratn.github.io/blog.junkjam.in/atom.xml" rel="self"/>
+  <link href="http://triptiratn.github.io/blog.junkjam.in/"/>
+  <updated>2015-11-08T22:40:43+05:30</updated>
+  <id>http://triptiratn.github.io/blog.junkjam.in/</id>
+  <author>
+    <name><![CDATA[Fasih Ahmad Fakhri]]></name>
+    <email><![CDATA[junkjam2015@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
