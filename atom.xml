@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[JunkJam Blog]]></title>
-  <link href="http://blog.junkjam.in/atom.xml" rel="self"/>
-  <link href="http://blog.junkjam.in/"/>
-  <updated>2015-11-09T00:29:56+05:30</updated>
-  <id>http://blog.junkjam.in/</id>
+  <title><![CDATA[JunkJam]]></title>
+  <link href="http://www.junkjam.in/atom.xml" rel="self"/>
+  <link href="http://www.junkjam.in/"/>
+  <updated>2015-11-09T00:38:00+05:30</updated>
+  <id>http://www.junkjam.in/</id>
   <author>
     <name><![CDATA[Fasih Ahmad Fakhri]]></name>
     <email><![CDATA[junkjam2015@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Junk Professionals, What the Fu**]]></title>
-    <link href="http://blog.junkjam.in/about-junk-professionals/"/>
+    <link href="http://www.junkjam.in/about-junk-professionals/"/>
     <updated>2015-11-08T23:18:49+05:30</updated>
-    <id>http://blog.junkjam.in/about-junk-professionals</id>
+    <id>http://www.junkjam.in/about-junk-professionals</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://junkjam.in/img/iphone-bg.jpg" width="500" height="650" title="Place Kitten #2" ></p>
 
 <!-- more -->
