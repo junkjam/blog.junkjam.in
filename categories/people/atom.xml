@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: People | JunkJam Blog]]></title>
-  <link href="http://triptiratn.github.io/blog.junkjam.in/categories/people/atom.xml" rel="self"/>
-  <link href="http://triptiratn.github.io/blog.junkjam.in/"/>
-  <updated>2015-11-09T00:16:05+05:30</updated>
-  <id>http://triptiratn.github.io/blog.junkjam.in/</id>
+  <link href="http://blog.junkjam.in/categories/people/atom.xml" rel="self"/>
+  <link href="http://blog.junkjam.in/"/>
+  <updated>2015-11-09T00:29:56+05:30</updated>
+  <id>http://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[Fasih Ahmad Fakhri]]></name>
     <email><![CDATA[junkjam2015@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Junk Professionals, What the Fu**]]></title>
-    <link href="http://triptiratn.github.io/blog.junkjam.in/about-junk-professionals/"/>
+    <link href="http://blog.junkjam.in/about-junk-professionals/"/>
     <updated>2015-11-08T23:18:49+05:30</updated>
-    <id>http://triptiratn.github.io/blog.junkjam.in/about-junk-professionals</id>
+    <id>http://blog.junkjam.in/about-junk-professionals</id>
     <content type="html"><![CDATA[<p><img class="left <a" src="href="http://junkjam.in/img/iphone-bg.jpg">http://junkjam.in/img/iphone-bg.jpg</a>" width="500" height="650" title="Place Kitten #2" ></p>
 
 <!-- more -->
