@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[JunkJam]]></title>
-  <link href="http://www.junkjam.in/atom.xml" rel="self"/>
-  <link href="http://www.junkjam.in/"/>
-  <updated>2015-11-09T00:38:00+05:30</updated>
-  <id>http://www.junkjam.in/</id>
+  <link href="http://blog.junkjam.in/atom.xml" rel="self"/>
+  <link href="http://blog.junkjam.in/"/>
+  <updated>2015-11-09T02:30:46+05:30</updated>
+  <id>http://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[Fasih Ahmad Fakhri]]></name>
     <email><![CDATA[junkjam2015@gmail.com]]></email>
@@ -15,22 +15,19 @@
   
   <entry>
     <title type="html"><![CDATA[Junk Professionals, What the Fu**]]></title>
-    <link href="http://www.junkjam.in/about-junk-professionals/"/>
+    <link href="http://blog.junkjam.in/about-junk-professionals/"/>
     <updated>2015-11-08T23:18:49+05:30</updated>
-    <id>http://www.junkjam.in/about-junk-professionals</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://junkjam.in/img/iphone-bg.jpg" width="500" height="650" title="Place Kitten #2" ></p>
-
+    <id>http://blog.junkjam.in/about-junk-professionals</id>
+    <content type="html"><![CDATA[<img class="left" src="http://junkjam.in/img/iphone-bg.jpg" width="500" height="650" title="Place Kitten #2" >
 <!-- more -->
+For every market we have a specialist who is responsible for all the communication between their local to your local.
 
+If you have any problem or any confusion like what to buy?? From where to buy?? 
+Our street specialist team will help you to take a right route.
 
-<p>For every market we have a specialist who is responsible for all the communication between their local to your local.</p>
-
-<p>If you have any problem or any confusion like what to buy?? From where to buy??
-Our street specialist team will help you to take a right route.</p>
-
-<p>Junk professional is a team of shopping experts who have a great sense of
-shopping and current fashion trends.. The team roams around different cities
-and explores the famous street market and the people.</p>
+Junk professional is a team of shopping experts who have a great sense of 
+shopping and current fashion trends.. The team roams around different cities 
+and explores the famous street market and the people.
 ]]></content>
   </entry>
   
