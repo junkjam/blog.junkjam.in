@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[JunkJam Blog]]></title>
-  <link href="http://triptiratn.github.io/blog.junkjam.in/atom.xml" rel="self"/>
+  <title><![CDATA[Category: People | JunkJam Blog]]></title>
+  <link href="http://triptiratn.github.io/blog.junkjam.in/categories/people/atom.xml" rel="self"/>
   <link href="http://triptiratn.github.io/blog.junkjam.in/"/>
   <updated>2015-11-08T23:38:59+05:30</updated>
   <id>http://triptiratn.github.io/blog.junkjam.in/</id>
@@ -18,7 +18,7 @@
     <link href="http://triptiratn.github.io/blog.junkjam.in/about-junk-professionals/"/>
     <updated>2015-11-08T23:18:49+05:30</updated>
     <id>http://triptiratn.github.io/blog.junkjam.in/about-junk-professionals</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://junkjam.in/img/iphone-bg.jpg" width="500" height="650" title="Place Kitten #2" ></p>
+    <content type="html"><![CDATA[<p><img class="left <a" src="href="http://junkjam.in/img/iphone-bg.jpg">http://junkjam.in/img/iphone-bg.jpg</a>" width="500" height="650" title="Place Kitten #2" ></p>
 
 <!-- more -->
 
