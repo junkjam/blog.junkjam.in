@@ -61,13 +61,24 @@ Nov 08 2015 posted in people Recent Posts Junk Professionals, What the Fu** On D
   
 </ul>
   
-<form action="https://www.google.co.in/search" method="get">
+<script>
+  (function() {
+    var cx = '014681989174846030100:za8tmf4lz04';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<form>
   <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="blog.junkjam.in">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+	<gcse:search></gcse:search>
   </fieldset>
 </form>
-
+  
 <ul class="main-navigation">
   <li><a href="http://junkjam.in/">Home</a></li>
   <li><a href="/">Blog</a></li>
