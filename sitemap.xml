@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/</loc>
+    <lastmod>2016-04-24T16:53:49+05:30</lastmod>
+  </url>
+  <url>
     <loc>http://blog.junkjam.in/2016/04/05/sarojini-nagar-market-new-delhi/</loc>
     <lastmod>2016-04-05T22:53:49+05:30</lastmod>
   </url>
@@ -38,5 +42,8 @@
   </url>
   <url>
     <loc>http://blog.junkjam.in/categories/delhi/</loc>
+  </url>
+  <url>
+    <loc>http://blog.junkjam.in/categories/great-kailash/</loc>
   </url>
 </urlset>
