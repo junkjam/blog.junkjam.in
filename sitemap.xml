@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.junkjam.in/2016/05/24/lajpat-nagar-market-new-delhi/</loc>
+    <lastmod>2016-05-24T08:00:49+05:30</lastmod>
+  </url>
+  <url>
     <loc>http://blog.junkjam.in/2016/05/23/janpath-market-new-delhi/</loc>
     <lastmod>2016-05-23T16:53:49+05:30</lastmod>
   </url>
@@ -52,5 +56,8 @@
   </url>
   <url>
     <loc>http://blog.junkjam.in/categories/janpath/</loc>
+  </url>
+  <url>
+    <loc>http://blog.junkjam.in/categories/lajpat-nagar/</loc>
   </url>
 </urlset>
