@@ -1,7 +1,7 @@
 function getNav() {
   var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">')
-  var mobileNav = $('fieldset.mobile-nav').append('<select>');
-  mobileNav.find('select').append('<option value="">Navigate&hellip;</option>');
+  var mobileNav = $('fieldset.mobile-nav').append('<select class=tinynav>');
+  mobileNav.find('select').append('<option value="">Navigate</option>');
   var addOption = function(i, option) {
     mobileNav.find('select').append('<option value="' + this.href + '">&raquo; ' + $(this).text() + '</option>');
   }
@@ -111,6 +111,7 @@ $('document').ready(function() {
   flashVideoFallback();
   addCodeLineNumbers();
   getNav();
+  cloneNav();
   addSidebarToggler();
 });
 

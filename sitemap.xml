@@ -25,19 +25,19 @@
     <lastmod>2015-11-08T23:18:49+05:30</lastmod>
   </url>
   <url>
-    <loc>http://blog.junkjam.in/archives/</loc>
-  </url>
-  <url>
     <loc>http://blog.junkjam.in/</loc>
   </url>
   <url>
-    <loc>http://blog.junkjam.in/docs/image-tag/</loc>
+    <loc>http://blog.junkjam.in/archives/</loc>
   </url>
   <url>
-    <loc>http://blog.junkjam.in/docs/upload-images/</loc>
+    <loc>http://blog.junkjam.in/contribute/</loc>
   </url>
   <url>
-    <loc>http://blog.junkjam.in/docs/</loc>
+    <loc>http://blog.junkjam.in/contribute/how-to-upload-images-for-post/</loc>
+  </url>
+  <url>
+    <loc>http://blog.junkjam.in/contribute/how-to-add-images-in-post/</loc>
   </url>
   <url>
     <loc>http://blog.junkjam.in/categories/junkjam/</loc>
@@ -49,7 +49,10 @@
     <loc>http://blog.junkjam.in/categories/sarojini/</loc>
   </url>
   <url>
-    <loc>http://blog.junkjam.in/categories/delhi/</loc>
+    <loc>http://blog.junkjam.in/categories/market/</loc>
+  </url>
+  <url>
+    <loc>http://blog.junkjam.in/categories/new-delhi/</loc>
   </url>
   <url>
     <loc>http://blog.junkjam.in/categories/great-kailash/</loc>
@@ -58,6 +61,6 @@
     <loc>http://blog.junkjam.in/categories/janpath/</loc>
   </url>
   <url>
-    <loc>http://blog.junkjam.in/categories/lajpat-nagar/</loc>
+    <loc>http://blog.junkjam.in/categories/lajpat/</loc>
   </url>
 </urlset>
