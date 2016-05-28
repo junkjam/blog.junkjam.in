@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.junkjam.in/sitemap.xml 
+Sitemap: https://blog.junkjam.in/sitemap.xml 
