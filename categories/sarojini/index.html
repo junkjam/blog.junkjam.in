@@ -20,17 +20,17 @@
 
   <meta property="fb:app_id" content="1615927002059010"/>
   <meta property=og:type content=website />
-  <meta property=og:url content="http://blog.junkjam.in/categories/sarojini/">
+  <meta property=og:url content="https://blog.junkjam.in/categories/sarojini/">
   <meta property=og:title content="Latest Posts on Sarojini - JunkJam Blog" />
   <meta property=og:description content="Latest Posts on sarojini" />
-  <meta property=og:image content="http://junkjam.in/img/og_image.jpg">
+  <meta property=og:image content="//junkjam.in/img/og_image.jpg">
   <meta name=twitter:site content=junkjam>
   <meta name=twitter:title content="Latest Posts on Sarojini - JunkJam Blog">
   <meta name=twitter:description content="Latest Posts on sarojini">
   <meta name="p:domain_verify" content="5caaee786c9fe8757dacb179891f46ff"/>
 
   <link rel="manifest" href="manifest.json">
-  <link rel="canonical" href="http://blog.junkjam.in/categories/sarojini/">
+  <link rel="canonical" href="https://blog.junkjam.in/categories/sarojini/">
   <link href="/favicon.jpg" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="JunkJam Blog" type="application/atom+xml">
@@ -50,6 +50,32 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script>
+window.addEventListener('load', function() {
+  var outputElement = document.getElementById('output');
+  navigator.serviceWorker.register('service-worker.js', { scope: './' })
+    .then(function(r) {
+      console.log('registered service worker');
+    })
+    .catch(function(whut) {
+      console.error('uh oh... ');
+      console.error(whut);
+    });
+  window.addEventListener('beforeinstallprompt', function(e) {
+    outputElement.textContent = 'beforeinstallprompt Event fired';
+    // e.userChoice will return a Promise. For more details read: http://www.html5rocks.com/en/tutorials/es6/promises/
+    e.userChoice.then(function(choiceResult) {
+      console.log(choiceResult.outcome);
+      if(choiceResult.outcome == 'dismissed') {
+        console.log('User cancelled homescreen install');
+      }
+      else {
+        console.log('User added to homescreen');
+      }
+    });
+  });
+});
+</script>
 
   
   <script type="text/javascript">
@@ -204,7 +230,7 @@
   </div>
   <footer role="contentinfo"><p>
   Copyright &copy; 2016 - 
-  <span class="credit"> <a href="http://junkjam.in">JunkJam</a></span>
+  <span class="credit"> <a href="https://junkjam.in">JunkJam</a></span>
 </p>
 
 </footer>

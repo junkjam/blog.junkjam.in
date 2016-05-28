@@ -20,7 +20,7 @@
 
   <meta property="fb:app_id" content="1615927002059010"/>
   <meta property=og:type content=website />
-  <meta property=og:url content="http://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/">
+  <meta property=og:url content="https://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/">
   <meta property=og:title content="Greater Kailash M-Block Market - JunkJam Blog" />
   <meta property=og:description content="Since the 1970s, the Greater Kailash M-Block Market, known locally just as &rsquo;M-block market', has attracted Delhi&rsquo;s upwardly mobile. &hellip;" />
   <meta property=og:image content="https://cloud.githubusercontent.com/assets/1082157/14767652/c887bd4e-0a48-11e6-9fe4-f8e319f6da79.jpg">
@@ -30,7 +30,7 @@
   <meta name="p:domain_verify" content="5caaee786c9fe8757dacb179891f46ff"/>
 
   <link rel="manifest" href="manifest.json">
-  <link rel="canonical" href="http://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/">
+  <link rel="canonical" href="https://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/">
   <link href="/favicon.jpg" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="JunkJam Blog" type="application/atom+xml">
@@ -50,6 +50,32 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script>
+window.addEventListener('load', function() {
+  var outputElement = document.getElementById('output');
+  navigator.serviceWorker.register('service-worker.js', { scope: './' })
+    .then(function(r) {
+      console.log('registered service worker');
+    })
+    .catch(function(whut) {
+      console.error('uh oh... ');
+      console.error(whut);
+    });
+  window.addEventListener('beforeinstallprompt', function(e) {
+    outputElement.textContent = 'beforeinstallprompt Event fired';
+    // e.userChoice will return a Promise. For more details read: http://www.html5rocks.com/en/tutorials/es6/promises/
+    e.userChoice.then(function(choiceResult) {
+      console.log(choiceResult.outcome);
+      if(choiceResult.outcome == 'dismissed') {
+        console.log('User cancelled homescreen install');
+      }
+      else {
+        console.log('User added to homescreen');
+      }
+    });
+  });
+});
+</script>
 
   
   <script type="text/javascript">
@@ -137,7 +163,7 @@
 <time class='entry-date' datetime='2016-04-24T16:53:49+05:30'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>24</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>4:53 pm</span></time>
         
            | <a href="#disqus_thread"
-             data-disqus-identifier="http://blog.junkjam.in">Comments</a>
+             data-disqus-identifier="https://blog.junkjam.in">Comments</a>
         
       </p>
     
@@ -388,7 +414,7 @@ This is one of the best shops for Gold and precious jewelery in Delhi.</p>
   </div>
   <footer role="contentinfo"><p>
   Copyright &copy; 2016 - 
-  <span class="credit"> <a href="http://junkjam.in">JunkJam</a></span>
+  <span class="credit"> <a href="https://junkjam.in">JunkJam</a></span>
 </p>
 
 </footer>
@@ -399,8 +425,8 @@ This is one of the best shops for Gold and precious jewelery in Delhi.</p>
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/';
-        var disqus_url = 'http://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/';
+        var disqus_identifier = 'https://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/';
+        var disqus_url = 'https://blog.junkjam.in/2016/04/24/gk-m-block-market-new-delhi/';
         var disqus_script = 'embed.js';
       
     (function () {
