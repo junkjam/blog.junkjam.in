@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Latest Posts on Places | JunkJam Blog]]></title>
-  <link href="https://blog.junkjam.in/categories/places/atom.xml" rel="self"/>
-  <link href="https://blog.junkjam.in/"/>
-  <updated>2016-05-29T02:39:02+05:30</updated>
-  <id>https://blog.junkjam.in/</id>
+  <link href="http://blog.junkjam.in/categories/places/atom.xml" rel="self"/>
+  <link href="http://blog.junkjam.in/"/>
+  <updated>2016-05-29T03:05:09+05:30</updated>
+  <id>http://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[JunkJam]]></name>
     <email><![CDATA[junkjam2015@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Reasons-Why Delhi Is Best City in India??]]></title>
-    <link href="https://blog.junkjam.in/2016/02/20/reasons-why-Delhi-is-Best-Place-to-live/"/>
+    <link href="http://blog.junkjam.in/2016/02/20/reasons-why-Delhi-is-Best-Place-to-live/"/>
     <updated>2016-02-20T13:18:49+05:30</updated>
-    <id>https://blog.junkjam.in/2016/02/20/reasons-why-Delhi-is-Best-Place-to-live</id>
+    <id>http://blog.junkjam.in/2016/02/20/reasons-why-Delhi-is-Best-Place-to-live</id>
     <content type="html"><![CDATA[<p>Delhi or Dilli, also famous as &lsquo;Dilwalo ki Dilli&rsquo; is the capital city of India and is usually known for its rich cultural heritage and lifestyle.</p>
 
 <!-- more -->
