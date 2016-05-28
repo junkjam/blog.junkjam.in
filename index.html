@@ -56,7 +56,7 @@ The summers have arrived and so that the style should be changed! So I will tell
 <script>
 window.addEventListener('load', function() {
   var outputElement = document.getElementById('output');
-  navigator.serviceWorker.register('service-worker.js', { scope: './' })
+  navigator.serviceWorker.register('/service-worker.js', { scope: './' })
     .then(function(r) {
       console.log('registered service worker');
     })
