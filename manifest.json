@@ -1,0 +1,19 @@
+{  
+  "name": "JunkJam",
+  "short_name": "JunkJam",
+  "start_url": "/?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1976d2",
+  "theme_color": "#1976d2",
+  "splash_screens": [{
+      "src": "/images/logo.png"
+    }],
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png"
+    }
+  ]
+}
+
