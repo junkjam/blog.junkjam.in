@@ -78,6 +78,7 @@ window.addEventListener('load', function() {
 });
 </script>
 
+
   
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -186,7 +187,64 @@ window.addEventListener('load', function() {
 
     </div>
   </div>
-  <footer role="contentinfo"><p>
+  <footer role="contentinfo"><a href="#" id="subscribe-link"></a>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+  function subscribe() {
+	OneSignal.push(["registerForPushNotifications"]);
+	event.preventDefault();
+  }
+
+  var OneSignal = OneSignal || [];
+  OneSignal.push(["init", {
+    appId: "9b6232c1-cc82-4374-9aff-71cc173ed963",
+    autoRegister: false,
+	notifyButton: {
+			enable: true,
+			enable: true, // Required to use the notify button
+			size: 'medium', // One of 'small', 'medium', or 'large'
+			theme: 'default', // One of 'default' (red-white) or 'inverse" (white-red)
+			position: 'bottom-right', // Either 'bottom-left' or 'bottom-right'
+			offset: {
+			  bottom: '0px',
+			  left: '0px', // Only applied if bottom-left
+			  right: '0px' // Only applied if bottom-right
+			},
+			prenotify: true, // Show an icon with 1 unread message for first-time site visitors
+			showCredit: false, // Hide the OneSignal logo
+			text: {
+			  'tip.state.unsubscribed': 'Subscribe to notifications',
+			  'tip.state.subscribed': "You're subscribed to notifications",
+			  'tip.state.blocked': "You've blocked notifications",
+			  'message.prenotify': 'Click to subscribe to notifications',
+			  'message.action.subscribed': "Thanks for subscribing!",
+			  'message.action.resubscribed': "You're subscribed to notifications",
+			  'message.action.unsubscribed': "You won't receive notifications again",
+			  'dialog.main.title': 'Manage Site Notifications',
+			  'dialog.main.button.subscribe': 'SUBSCRIBE',
+			  'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+			  'dialog.blocked.title': 'Unblock Notifications',
+			  'dialog.blocked.message': "Follow these instructions to allow notifications:"
+			}
+	}
+  }]);
+    OneSignal.push(function() {
+        // If we're on an unsupported browser, do nothing
+        if (!OneSignal.isPushNotificationsSupported()) {
+            return;
+        }
+        OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+            if (isEnabled) {
+                // The user is subscribed to notifications
+                // Don't show anything
+            } else {
+                document.getElementById("subscribe-link").textContent = "Subscribe to Notifications";
+                document.getElementById("subscribe-link").addEventListener('click', subscribe);
+            }
+        });
+    });
+</script>
+<p>
   Copyright &copy; 2016 - 
   <span class="credit"> <a href="http://junkjam.in">JunkJam</a></span>
 </p>
