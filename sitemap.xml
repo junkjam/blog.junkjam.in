@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.junkjam.in/2016/07/16/the-freshest-pre-fall-2016-collections-straight-from-the-runway/</loc>
+    <lastmod>2016-07-16T13:30:49+05:30</lastmod>
+  </url>
+  <url>
     <loc>http://blog.junkjam.in/2016/07/16/3-best-delhi-street-market-for-girls-shopping/</loc>
     <lastmod>2016-07-16T02:30:49+05:30</lastmod>
   </url>
@@ -91,5 +95,8 @@
   </url>
   <url>
     <loc>http://blog.junkjam.in/categories/kolkata/</loc>
+  </url>
+  <url>
+    <loc>http://blog.junkjam.in/categories/fashion/</loc>
   </url>
 </urlset>
