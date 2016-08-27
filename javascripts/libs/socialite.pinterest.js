@@ -4,4 +4,45 @@
  * Copyright (c) 2011 David Bushell
  * Dual-licensed under the BSD or MIT licenses: http://socialitejs.com/license.txt
  */
-!function(t,e,i,n){i.network("pinterest",{script:{src:"//assets.pinterest.com/js/pinit.js","data-pin-build":"parsePinBtns"}}),i.widget("pinterest","pinit",{process:function(t){if("a"!==t.el.nodeName.toLowerCase())return!0;var e="socialite-instance-"+t.uid,i=t.el.getAttribute("href");t.el.id=e,t.el.href="#"+e,t.el.setAttribute("data-default-href",i),t.el.setAttribute("onclick",'(function(){window.open("'+i+'")})();')},init:function(n){i.processInstance(n);var a=e.createElement("a");a.className="pin-it-button",i.copyDataAttributes(n.el,a),a.setAttribute("href",n.el.getAttribute("data-default-href")),a.setAttribute("count-layout",n.el.getAttribute("data-count-layout")||"horizontal"),n.el.appendChild(a),i.networkReady("pinterest")&&t.parsePinBtns()}})}(window,window.document,window.Socialite);
+(function(window, document, Socialite, undefined)
+{
+    // http://pinterest.com/about/goodies/
+
+    Socialite.network('pinterest', {
+        script: {
+            src: '//assets.pinterest.com/js/pinit.js',
+            'data-pin-build': 'parsePinBtns'
+        }
+    });
+
+    Socialite.widget('pinterest', 'pinit', {
+        process: function(instance)
+        {
+            // Pinterest activates all <a> elements with a href containing share URL
+            // so we have to jump through hoops to protect each instance
+            if (instance.el.nodeName.toLowerCase() !== 'a') {
+                return true;
+            }
+            var id   = 'socialite-instance-' + instance.uid,
+                href = instance.el.getAttribute('href');
+            instance.el.id = id;
+            instance.el.href = '#' + id;
+            instance.el.setAttribute('data-default-href', href);
+            instance.el.setAttribute('onclick', '(function(){window.open("' + href + '")})();');
+        },
+        init: function(instance)
+        {
+            Socialite.processInstance(instance);
+            var el = document.createElement('a');
+            el.className = 'pin-it-button';
+            Socialite.copyDataAttributes(instance.el, el);
+            el.setAttribute('href', instance.el.getAttribute('data-default-href'));
+            el.setAttribute('count-layout', instance.el.getAttribute('data-count-layout') || 'horizontal');
+            instance.el.appendChild(el);
+            if (Socialite.networkReady('pinterest')) {
+                window.parsePinBtns();
+            }
+        }
+    });
+
+})(window, window.document, window.Socialite);

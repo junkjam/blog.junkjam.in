@@ -1,1 +1,4 @@
-User-agent: * Disallow:Sitemap: https://blog.junkjam.in/sitemap.xml
+User-agent: *
+Disallow: 
+
+Sitemap: https://blog.junkjam.in/sitemap.xml 
