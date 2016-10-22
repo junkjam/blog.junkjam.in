@@ -45,6 +45,7 @@
                 var newurl = slug;
                 if (distance < 30 && distance > -30 && currentslug != slug) {
                     window.history.pushState({path:newurl},'',newurl);
+					_gaq.push(['_trackPageview', newurl);
                     currentslug = slug;
                 }
             });
