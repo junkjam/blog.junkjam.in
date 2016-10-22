@@ -1,4 +1,4 @@
-(function($,Article){
+(function($,Articlei,GA){
 	var config = {};
 
     function init(options) {
@@ -45,7 +45,7 @@
                 var newurl = slug;
                 if (distance < 30 && distance > -30 && currentslug != slug) {
                     window.history.pushState({path:newurl},'',newurl);
-					_gaq.push(['_trackPageview', newurl);
+					GA.push(['_trackPageview', newurl);
                     currentslug = slug;
                 }
             });
@@ -55,4 +55,4 @@
         config : config,
         init: init,
     });
-})($,(window.Article = window.Article || {}));
+})($,(window.Article = window.Article || {}),GA = window._gaq);
