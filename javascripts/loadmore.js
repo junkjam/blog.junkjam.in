@@ -23,8 +23,9 @@
     
     }
     function bindloadnextarticle(){
+		var trigger_offset = ($(window).width() > 640)?1000:3000;
         $(window).scroll(function() {
-            if (!config.loading && ($(window).scrollTop() >  $(document).height() - $(window).height() - 1000)){
+            if (!config.loading && ($(window).scrollTop() >  $(document).height() - $(window).height() - trigger_offset)){
                config.loading =true;
                loadnextarticle().done(function(data){
 					article = $("<html/>").html(data).find('#js-container').html()
