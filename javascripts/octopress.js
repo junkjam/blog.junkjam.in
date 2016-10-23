@@ -150,3 +150,57 @@ a&&b&&d&&i&&k){d+="";i+="";var p={};if(f&&typeof f===o)for(var m in f)p[m]=f[m];
 i.location.search||i.location.hash;if(b){/\?/.test(b)&&(b=b.split("?")[1]);if(a==null)return u(b);for(var b=b.split("&"),d=0;d<b.length;d++)if(b[d].substring(0,b[d].indexOf("="))==a)return u(b[d].substring(b[d].indexOf("=")+1))}return""}}}();
 
 
+var initFacebookShare = function(){
+	$('#js-container').on('click','.mm_facebook_share, .bg_facebook',function () {
+	var sharePostTitle = $(this).attr('data-post-title');
+	var sharePostPermalink = $(this).attr('data-post-permalink');
+	var width = 575,
+		height = 400,
+		left = ($(window).width()  - width)  / 2,
+		top = ($(window).height() - height) / 2,
+		text = sharePostTitle,
+		url = 'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(sharePostPermalink),
+		opts = 'status=1' + ',width=' + width + ',height=' + height + ',top=' + top + ',left=' + left;
+	window.open(url, 'fb', opts);
+	return false;
+	});
+
+}()
+
+var initTwitterTweet = function(){
+	$('#js-container').on('click','.mm_twitter_tweet, .bg_twitter',function () {
+		var sharePostTitle = $(this).attr('data-post-title');
+		var sharePostPermalink = $(this).attr('data-post-permalink');
+		var width = 575,
+			height = 400,
+			left = ($(window).width()  - width)  / 2,
+			top = ($(window).height() - height) / 2,
+			text = sharePostTitle,
+			url = 'http://twitter.com/share?url='+sharePostPermalink+'&text='+sharePostTitle+' via @JunkJamIndia',
+			opts = 'status=1' + ',width=' + width + ',height=' + height + ',top=' + top + ',left=' + left;
+		window.open(url, 'twitter', opts);
+		return false;
+	});
+}()
+
+function callbackGooglePlusShare(authResult)
+{
+	$('.g-interactivepost:first').click();
+}
+
+var initGooglePlusShare = function(){
+	$('#js-container').on('click','.mm_google_plus_share, .bg_googleplus',function () {
+		var sharePostTitle = $(this).attr('data-post-title');
+		var sharePostPermalink = $(this).attr('data-post-permalink');
+		var width = 575,
+			height = 400,
+			left = ($(window).width()  - width)  / 2,
+			top = ($(window).height() - height) / 2,
+			text = sharePostTitle,
+			url = 'https://plus.google.com/share?url='+sharePostPermalink+'&text='+sharePostTitle+' via @JunkJam',
+			opts = 'status=1' + ',width=' + width + ',height=' + height + ',top=' + top + ',left=' + left;
+		window.open(url, 'twitter', opts);
+		return false;
+	});
+}()
+
