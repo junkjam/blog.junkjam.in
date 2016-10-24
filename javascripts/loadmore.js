@@ -1,4 +1,4 @@
-(function($,Articlei,GA){
+(function($,Article,GA){
 	var config = {};
 
     function init(options) {
@@ -57,4 +57,4 @@
         config : config,
         init: init,
     });
-})($,(window.Article = window.Article || {}),GA = window._gaq);
+})($,(window.Article = window.Article || {}),GA = window._gaq || []);
