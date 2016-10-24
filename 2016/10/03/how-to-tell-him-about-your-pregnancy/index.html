@@ -294,6 +294,10 @@ Enjoy the present with all good moments. We are sure that these tips will surely
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2016/10/24/woman-fashion-trends-in-diwali-2016/"><img src="https://cloud.githubusercontent.com/assets/21153184/19651466/8a8718ce-9a2a-11e6-8cd7-eb9674c2f9e2.jpg" />7 Super Gorgeous Woman Fashion Trends Not to Miss in This Diwali</a>
+      </li>
+    
+      <li class="post">
         <a href="/2016/10/15/questions-every-girl-wants-to-ask-her-guy/"><img src="https://cloud.githubusercontent.com/assets/21153184/19378807/4b4d9c26-920c-11e6-97de-2fb444f62545.gif" />10 Questions Every Girl Wants to Ask Her Guy?</a>
       </li>
     
@@ -307,10 +311,6 @@ Enjoy the present with all good moments. We are sure that these tips will surely
     
       <li class="post">
         <a href="/2016/10/04/how-to-overcome-from-breakup/"><img src="https://cloud.githubusercontent.com/assets/21153184/19104514/8a579746-8afa-11e6-8881-f7a1c00d0160.gif" />How to Overcome a BAD Breakup</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2016/10/03/how-to-tell-him-about-your-pregnancy/"><img src="https://cloud.githubusercontent.com/assets/21153184/19103253/6908ad66-8af3-11e6-91d1-6fff11b6948d.jpg" />10 Sweetest Ways to Tell Your Partner About Your Pregnancy</a>
       </li>
     
   </ul>
@@ -483,7 +483,7 @@ scrollIntervalID = setInterval(stickIt, 10);
 
 function stickIt() {
 
-  var orgElementPos = $('.original').offset();
+  var orgElementPos = $('.original').offset() || {top:1};
   orgElementTop = orgElementPos.top;               
 
   if ($(window).scrollTop() >= (orgElementTop)) {

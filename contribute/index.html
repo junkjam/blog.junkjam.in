@@ -352,7 +352,7 @@ scrollIntervalID = setInterval(stickIt, 10);
 
 function stickIt() {
 
-  var orgElementPos = $('.original').offset();
+  var orgElementPos = $('.original').offset() || {top:1};
   orgElementTop = orgElementPos.top;               
 
   if ($(window).scrollTop() >= (orgElementTop)) {
