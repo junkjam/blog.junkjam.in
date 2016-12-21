@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.junkjam.in/2016/12/21/is-your-child-picking-the-right-career-option/</loc>
+<lastmod>2016-12-21T07:45:27+05:30</lastmod>
+</url>
+<url>
 <loc>https://blog.junkjam.in/2016/12/20/how-to-navigate-the-traps-of-online-dating-to-save-your-relationship/</loc>
 <lastmod>2016-12-20T00:07:32+05:30</lastmod>
 </url>
@@ -240,6 +244,9 @@
 <loc>https://blog.junkjam.in/authors/anagha-naik/</loc>
 </url>
 <url>
+<loc>https://blog.junkjam.in/authors/munmi-sharma/</loc>
+</url>
+<url>
 <loc>https://blog.junkjam.in/categories/junkjam/</loc>
 </url>
 <url>
@@ -292,5 +299,8 @@
 </url>
 <url>
 <loc>https://blog.junkjam.in/categories/gurgaon/</loc>
+</url>
+<url>
+<loc>https://blog.junkjam.in/categories/parenting/</loc>
 </url>
 </urlset>
