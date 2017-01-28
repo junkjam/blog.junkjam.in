@@ -30,6 +30,7 @@
                loadnextarticle().done(function(data){
 					article = $("<html/>").html(data).find('#js-container').html()
                     $('#js-container').append(article);
+                    $("img.lazy").lazyload();
                     config.loading = false;
                });
             }
