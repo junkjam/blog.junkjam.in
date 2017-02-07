@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.junkjam.in/2017/02/07/6-must-haves-if-applying-for-a-foreign-college/</loc>
+<lastmod>2017-02-07T19:36:03+05:30</lastmod>
+</url>
+<url>
 <loc>https://blog.junkjam.in/2017/02/05/summer-2017-outfits/</loc>
 <lastmod>2017-02-05T22:08:42+05:30</lastmod>
 </url>
@@ -314,5 +318,8 @@
 </url>
 <url>
 <loc>https://blog.junkjam.in/categories/parenting/</loc>
+</url>
+<url>
+<loc>https://blog.junkjam.in/categories/career/</loc>
 </url>
 </urlset>
