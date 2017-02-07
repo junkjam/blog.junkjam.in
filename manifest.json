@@ -8,6 +8,9 @@
   "background_color": "#dcd3c2",
   "theme_color": "#dcd3c2",
   "gcm_sender_id": "986279531307",
+  "splash_screens": [{
+      "src": "/images/JunkJam_400x400.jpg"
+    }],
   "icons": [
     {
       "src": "/images/favicon.png",
