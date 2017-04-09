@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.junkjam.in/2017/04/09/top-5-movies-about-shopping/</loc>
+<lastmod>2017-04-09T23:08:37+05:30</lastmod>
+</url>
+<url>
 <loc>https://blog.junkjam.in/2017/02/12/6-awesome-valentine-day-ideas-for-ldr/</loc>
 <lastmod>2017-02-12T19:36:03+05:30</lastmod>
 </url>
@@ -333,5 +337,11 @@
 </url>
 <url>
 <loc>https://blog.junkjam.in/categories/career/</loc>
+</url>
+<url>
+<loc>https://blog.junkjam.in/categories/shopping/</loc>
+</url>
+<url>
+<loc>https://blog.junkjam.in/categories/movies/</loc>
 </url>
 </urlset>
