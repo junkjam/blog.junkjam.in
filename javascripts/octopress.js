@@ -214,7 +214,7 @@ var initGooglePlusShare = function(){
 
 $("img.lazy").lazyload();
 
-(function($,Article,GA){
+(function($,Article){
 	var config = {};
 
     function init(options) {
@@ -226,8 +226,8 @@ $("img.lazy").lazyload();
     function loadnextarticle(){
         var offset = (config.offset || 0)+1;
         var deferred = $.Deferred();
-        var promise = deferred.promise()
-		var current = window.location.pathname;
+        var promise = deferred.promise();
+		    var current = window.location.pathname;
         var url = $('#load-next-article[self="'+current+'"]').attr('href')
         $.ajax(url, {
             method: 'GET',
@@ -244,7 +244,7 @@ $("img.lazy").lazyload();
             if (!config.loading && ($(window).scrollTop() >  $(document).height() - $(window).height() - trigger_offset)){
                config.loading =true;
                loadnextarticle().done(function(data){
-					article = $("<html/>").html(data).find('#js-container').html()
+					          article = $("<html/>").html(data).find('#js-container').html()
                     $('#js-container').append(article);
                     $("img.lazy").lazyload();
                     config.loading = false;
@@ -263,15 +263,18 @@ $("img.lazy").lazyload();
                 var newurl = slug;
                 if (distance < 30 && distance > -30 && currentslug != slug) {
                     window.history.pushState({path:newurl},'',newurl);
-					GA.push(['_trackPageview', newurl]);
-					if (window.stButtons){window.stButtons.locateElements();}
+                    Article.read(newurl);                    
                     currentslug = slug;
                 }
             });
         });
     }
+
+    function read(path){}
+
     Article = $.extend(Article, {
         config : config,
+        read : read,        
         init: init,
     });
-})($,(window.Article = window.Article || {}),GA = window._gaq || []);
+})($,(window.Article = window.Article || {}));
