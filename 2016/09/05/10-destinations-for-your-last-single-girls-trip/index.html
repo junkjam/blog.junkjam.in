@@ -443,7 +443,7 @@ function stickIt() {
 	Article.init({current:{slug:'/2016/09/05/10-destinations-for-your-last-single-girls-trip/'}})
 </script>
 
-<a href="#" id="subscribe-link"></a>
+<a href="#" id="subscribe-link" style="font-size: 10px;text-decoration: none;"></a>
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 <script>
   function subscribe() {
@@ -495,7 +495,7 @@ function stickIt() {
                 // The user is subscribed to notifications
                 // Don't show anything
             } else {
-                document.getElementById("subscribe-link").textContent = "Subscribe to Notifications";
+                document.getElementById("subscribe-link").textContent = "Subscribe to Push Notifications";
                 document.getElementById("subscribe-link").addEventListener('click', subscribe);
             }
         });
