@@ -265,7 +265,13 @@ $(document).ready(function(){
     
     }
     function bindloadnextarticle(){
-		var trigger_offset = ($(window).width() > 640)?1000:3000;
+		    if($(window).width() > 640){
+          var trigger_offset = 1000;
+        }
+        else{
+          var trigger_offset = 2500;
+          return
+        }
         $(window).scroll(function() {
             if (!config.loading && ($(window).scrollTop() >  $(document).height() - $(window).height() - trigger_offset)){
                config.loading =true;
@@ -293,18 +299,18 @@ $(document).ready(function(){
                     if(title.length > 0) {
                         $('title').text(title.text());
                     }
-                    Article.read(newurl);                    
+                    Article.next(newurl);                    
                     currentslug = slug;
                 }
             });
         });
     }
 
-    function read(path){}
+    function next(path){}
 
     Article = $.extend(Article, {
         config : config,
-        read : read,        
+        next : next,        
         init: init,
     });
 })($,(window.Article = window.Article || {}));
