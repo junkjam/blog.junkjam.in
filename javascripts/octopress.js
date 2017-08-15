@@ -5,8 +5,8 @@ function getNav() {
   var addOption = function(i, option) {
     mobileNav.find('select').append('<option value="' + this.href + '">&raquo; ' + $(this).text() + '</option>');
   }
-  mainNav.find('a').each(addOption);
-  $('ul.subscription a').each(addOption);
+  mainNav.find('a[role="mobile-navigation"]').each(addOption);
+  $('ul.subscription a[role="mobile-navigation"]').each(addOption);
   mobileNav.find('select').bind('change', function(event) {
     if (event.target.value) { window.location.href = event.target.value; }
   });
@@ -224,7 +224,7 @@ $(document).ready(function(){
   var aside_sidebar = $('aside.sidebar');
   var menu_header = $('.js-header');
   menu_header.scrollToFixed();
-    
+
   $('#amazon-affiliate').scrollToFixed({
       startpos: function(){
         return aside_sidebar.outerHeight()+aside_sidebar.offset().top+300;
