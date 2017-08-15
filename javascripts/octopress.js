@@ -263,6 +263,10 @@ $("img.lazy").lazyload();
                 var newurl = slug;
                 if (distance < 30 && distance > -30 && currentslug != slug) {
                     window.history.pushState({path:newurl},'',newurl);
+                    var title = $('article[data-slug="'+slug+'"] h1.entry-title');
+                    if(title.length > 0) {
+                        $('title').text(title.text());
+                    }
                     Article.read(newurl);                    
                     currentslug = slug;
                 }
