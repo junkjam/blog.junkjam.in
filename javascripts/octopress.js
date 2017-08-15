@@ -1,4 +1,4 @@
-function getNav() {
+function getMobileNav() {
   var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">')
   var mobileNav = $('fieldset.mobile-nav').append('<select class=tinynav>');
   mobileNav.find('select').append('<option value="">Navigate</option>');
@@ -105,13 +105,19 @@ function renderDeliciousLinks(items) {
   $('#delicious').html(output);
 }
 
+function getRecentPost(){
+  var same_post = $('#recent_posts a[href="'+window.location.pathname+'"]');
+  same_post.length > 0 ? same_post.parent('.post').remove():undefined;
+}
+
 $('document').ready(function() {
   testFeatures();
   wrapFlashVideos();
   flashVideoFallback();
   addCodeLineNumbers();
   addSidebarToggler();
-  getNav();  
+  getRecentPost();  
+  getMobileNav();
 });
 
 // iOS scaling bug fix
