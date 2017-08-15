@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.junkjam.in/2017/08/15/10-most-visit-cafes-in-gurgaon/</loc>
+<lastmod>2017-08-15T15:05:22+05:30</lastmod>
+</url>
+<url>
 <loc>https://blog.junkjam.in/2017/04/09/top-5-movies-about-shopping/</loc>
 <lastmod>2017-04-09T23:08:37+05:30</lastmod>
 </url>
@@ -346,5 +350,8 @@
 </url>
 <url>
 <loc>https://blog.junkjam.in/categories/movies/</loc>
+</url>
+<url>
+<loc>https://blog.junkjam.in/categories/cafe/</loc>
 </url>
 </urlset>
