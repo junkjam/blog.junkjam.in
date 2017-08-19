@@ -1,3 +1,27 @@
+;(function($, Utils) {
+  function formatString() {
+      // The string containing the format items (e.g. "{0}")
+      // will and always has to be the first argument.
+      var theString = arguments[0];      
+      // start with the second argument (i = 1)
+      for (var i = 1; i < arguments.length; i++) {
+          // "gm" = RegEx options for Global search (more than one instance)
+          // and for Multiline search
+          var regEx = new RegExp("\\{" + (i - 1) + "\\}", "gm");
+          theString = theString.replace(regEx, arguments[i]);
+      }      
+      return theString;
+  };
+
+  function urlParameter(key){
+      return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+  };
+
+  Utils.formatString = formatString;
+  Utils.urlParameter = urlParameter;
+
+})($, (window.Utils = window.Utils || {}));
+
 function getMobileNav() {
   var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">')
   var mobileNav = $('fieldset.mobile-nav').append('<select class=tinynav>');
@@ -224,7 +248,11 @@ var initGooglePlusShare = function(){
 !function(o){o.isScrollToFixed=function(i){return!!o(i).data("ScrollToFixed")},o.ScrollToFixed=function(i,e){function t(){U.trigger("preUnfixed.ScrollToFixed"),x(),U.trigger("unfixed.ScrollToFixed"),C=-1,y=U.offset().top,z=U.offset().left,T.options.offsets&&(z+=U.offset().left-U.position().left),-1==A&&(A=z),S=U.css("position"),v=!0,-1!=T.options.bottom&&(U.trigger("preFixed.ScrollToFixed"),c(),U.trigger("fixed.ScrollToFixed"))}function n(o){var i=T.options.startpos;return-1!=i?"function"==typeof i?i.apply(U):i:o}function s(){var o=T.options.limit;return o?"function"==typeof o?o.apply(U):o:0}function r(){return"fixed"===S}function l(){return"absolute"===S}function d(){return!(r()||l())}function c(){if(!r()){var o=U[0].getBoundingClientRect();O.css({display:U.css("display"),width:o.width,height:o.height,float:U.css("float")}),cssOptions={"z-index":T.options.zIndex,position:"fixed",top:-1==T.options.bottom?u():"",bottom:-1==T.options.bottom?"":T.options.bottom,"margin-left":"0px"},T.options.dontSetWidth||(cssOptions.width=U.css("width")),U.css(cssOptions),U.addClass(T.options.baseClassName),T.options.className&&U.addClass(T.options.className),S="fixed"}}function p(){var o=s(),i=z;T.options.removeOffsets&&(i="",o-=y),cssOptions={position:"absolute",top:o,left:i,"margin-left":"0px",bottom:""},T.options.dontSetWidth||(cssOptions.width=U.css("width")),U.css(cssOptions),S="absolute"}function x(){d()||(C=-1,O.css("display","none"),U.css({"z-index":h,width:"",position:b,left:"",top:w,"margin-left":""}),U.removeClass("scroll-to-fixed-fixed"),T.options.className&&U.removeClass(T.options.className),S=null)}function f(o){o!=C&&(U.css("left",z-o),C=o)}function u(){var o=T.options.marginTop;return o?"function"==typeof o?o.apply(U):o:0}function a(){if(o.isScrollToFixed(U)&&!U.is(":hidden")){var i=v,e=d();v?d()&&(y=U.offset().top,z=U.offset().left):t();var a=o(window).scrollLeft(),S=o(window).scrollTop(),m=s();T.options.minWidth&&o(window).width()<T.options.minWidth?d()&&i||(g(),U.trigger("preUnfixed.ScrollToFixed"),x(),U.trigger("unfixed.ScrollToFixed")):T.options.maxWidth&&o(window).width()>T.options.maxWidth?d()&&i||(g(),U.trigger("preUnfixed.ScrollToFixed"),x(),U.trigger("unfixed.ScrollToFixed")):-1==T.options.bottom?m>0&&S>=m-u()?e||l()&&i||(g(),U.trigger("preAbsolute.ScrollToFixed"),p(),U.trigger("unfixed.ScrollToFixed")):S>=n(y)-u()?(r()&&i||(g(),U.trigger("preFixed.ScrollToFixed"),c(),C=-1,U.trigger("fixed.ScrollToFixed")),f(a)):d()&&i||(g(),U.trigger("preUnfixed.ScrollToFixed"),x(),U.trigger("unfixed.ScrollToFixed")):m>0?S+o(window).height()-U.outerHeight(!0)>=m-(u()||-F())?r()&&(g(),U.trigger("preUnfixed.ScrollToFixed"),"absolute"===b?p():x(),U.trigger("unfixed.ScrollToFixed")):(r()||(g(),U.trigger("preFixed.ScrollToFixed"),c()),f(a),U.trigger("fixed.ScrollToFixed")):f(a)}}function F(){return T.options.bottom?T.options.bottom:0}function g(){var o=U.css("position");"absolute"==o?U.trigger("postAbsolute.ScrollToFixed"):"fixed"==o?U.trigger("postFixed.ScrollToFixed"):U.trigger("postUnfixed.ScrollToFixed")}var T=this;T.$el=o(i),T.el=i,T.$el.data("ScrollToFixed",T);var S,b,m,w,h,v=!1,U=T.$el,y=0,z=0,A=-1,C=-1,O=null,N=function(o){U.is(":visible")&&(v=!1,a())},W=function(o){window.requestAnimationFrame?requestAnimationFrame(a):a()},$=function(o){(o=o||window.event).preventDefault&&o.preventDefault(),o.returnValue=!1};T.init=function(){T.options=o.extend({},o.ScrollToFixed.defaultOptions,e),h=U.css("z-index"),T.$el.css("z-index",T.options.zIndex),O=o("<div />"),S=U.css("position"),b=U.css("position"),m=U.css("float"),w=U.css("top"),d()&&T.$el.after(O),o(window).bind("resize.ScrollToFixed",N),o(window).bind("scroll.ScrollToFixed",W),"ontouchmove"in window&&o(window).bind("touchmove.ScrollToFixed",a),T.options.preFixed&&U.bind("preFixed.ScrollToFixed",T.options.preFixed),T.options.postFixed&&U.bind("postFixed.ScrollToFixed",T.options.postFixed),T.options.preUnfixed&&U.bind("preUnfixed.ScrollToFixed",T.options.preUnfixed),T.options.postUnfixed&&U.bind("postUnfixed.ScrollToFixed",T.options.postUnfixed),T.options.preAbsolute&&U.bind("preAbsolute.ScrollToFixed",T.options.preAbsolute),T.options.postAbsolute&&U.bind("postAbsolute.ScrollToFixed",T.options.postAbsolute),T.options.fixed&&U.bind("fixed.ScrollToFixed",T.options.fixed),T.options.unfixed&&U.bind("unfixed.ScrollToFixed",T.options.unfixed),T.options.spacerClass&&O.addClass(T.options.spacerClass),U.bind("resize.ScrollToFixed",function(){O.height(U.height())}),U.bind("scroll.ScrollToFixed",function(){U.trigger("preUnfixed.ScrollToFixed"),x(),U.trigger("unfixed.ScrollToFixed"),a()}),U.bind("detach.ScrollToFixed",function(i){$(i),U.trigger("preUnfixed.ScrollToFixed"),x(),U.trigger("unfixed.ScrollToFixed"),o(window).unbind("resize.ScrollToFixed",N),o(window).unbind("scroll.ScrollToFixed",W),U.unbind(".ScrollToFixed"),O.remove(),T.$el.removeData("ScrollToFixed")}),N()},T.init()},o.ScrollToFixed.defaultOptions={marginTop:0,limit:0,bottom:-1,zIndex:1e3,baseClassName:"scroll-to-fixed-fixed",startpos:-1},o.fn.scrollToFixed=function(i){return this.each(function(){new o.ScrollToFixed(this,i)})}}(jQuery);
 
 
-$("img.lazy").lazyload();
+$('img.lazy').lazyload({
+        failure_limit : 100,
+        effect : "fadeIn",
+        threshold : 200,        
+    });
 
 $(document).ready(function(){
   var aside_sidebar = $('aside.sidebar');
@@ -278,7 +306,11 @@ $(document).ready(function(){
                loadnextarticle().done(function(data){
 					          article = $("<html/>").html(data).find('#js-container').html()
                     $('#js-container').append(article);
-                    $("img.lazy").lazyload();
+                    $('img.lazy').lazyload({
+                        failure_limit : 100,
+                        effect : "fadeIn",
+                        threshold : 200,                        
+                    });
                     config.loading = false;
                });
             }
