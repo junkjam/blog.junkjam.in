@@ -505,7 +505,7 @@ Before loving others, it is important to love ourselves, beginnings could be lit
 </script>
 
 <script>
-var userChoicePromise = function(choiceResult){};
+var userChoicePromise = userChoicePromise || function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
   navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })

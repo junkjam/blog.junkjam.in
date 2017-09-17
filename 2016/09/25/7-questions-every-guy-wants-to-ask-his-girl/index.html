@@ -510,7 +510,7 @@ Yet another question that every guy would rush on is that how often do their gir
 </script>
 
 <script>
-var userChoicePromise = function(choiceResult){};
+var userChoicePromise = userChoicePromise || function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
   navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })

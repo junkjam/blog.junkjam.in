@@ -502,7 +502,7 @@ So, enjoy a fulfilling outing at huda market sector 31 in Gurgaon. Check it out!
 </script>
 
 <script>
-var userChoicePromise = function(choiceResult){};
+var userChoicePromise = userChoicePromise || function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
   navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })

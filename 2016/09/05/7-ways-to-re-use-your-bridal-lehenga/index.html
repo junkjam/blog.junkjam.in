@@ -509,7 +509,7 @@ There are many cases when the lehenga sets have a long flowing dupatta with load
 </script>
 
 <script>
-var userChoicePromise = function(choiceResult){};
+var userChoicePromise = userChoicePromise || function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
   navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })

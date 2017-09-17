@@ -508,7 +508,7 @@ Trending in North Campus, Urban Hub is filled with college students. It is a fan
 </script>
 
 <script>
-var userChoicePromise = function(choiceResult){};
+var userChoicePromise = userChoicePromise || function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
   navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })
