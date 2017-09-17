@@ -50,7 +50,7 @@
   <link rel="publisher" href="https://plus.google.com/+JunkjamIn" />
   <link rel="alternate" href="https://blog.junkjam.in/2017/08/15/10-most-visit-cafes-in-gurgaon/" hreflang="en-us" />
   <link rel="alternate" href="/atom.xml" title="JunkJam Blog - Street Market! Fashion! LifeStyle!" type="application/atom+xml">
-  <link rel="stylesheet" href="/stylesheets/screen.css?v=2.0" media="screen, projection" type="text/css">
+  <link rel="stylesheet" href="/stylesheets/screen.css?v=4.0" media="screen, projection" type="text/css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" media="screen, projection" type="text/css">
   <link rel="stylesheet" href='//fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Varela+Round|PT+Serif:regular,italic,bold,bolditalic|PT+Sans:regular,italic,bold,bolditalic' type="text/css">
   
@@ -548,7 +548,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-<script src="/javascripts/octopress.js?v=3.5"></script>
+<script src="/javascripts/octopress.js?v=4.0"></script>
 <script>Article.init({current:{slug:'/2017/08/15/10-most-visit-cafes-in-gurgaon/'}})</script>
 
 <a href="#" id="subscribe-link" style="font-size: 10px;text-decoration: none;"></a>
@@ -611,9 +611,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
 
 <script>
+var userChoicePromise = function(choiceResult){};
 window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('/service-worker.js', { scope: './' })
+  navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })
     .then(function(r) {
       console.log('registered service worker');
     })
@@ -628,9 +629,11 @@ window.addEventListener('load', function() {
       console.log(choiceResult.outcome);
       if(choiceResult.outcome == 'dismissed') {
         console.log('User cancelled homescreen install');
+        userChoicePromise(choiceResult);
       }
       else {
         console.log('User added to homescreen');
+        userChoicePromise(choiceResult);
       }
     });
   });
