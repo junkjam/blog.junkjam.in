@@ -296,7 +296,7 @@ var _qart = _qart || [];
         init: init,
     });
 
-    if(_qart){
+    if(_qart.length){
         Article.init(_qart.pop())
     }
 })($,(window.Article = window.Article || {}));

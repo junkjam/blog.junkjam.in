@@ -13,7 +13,7 @@ self.addEventListener('install', function(e) {
             '/categories/fashion/',
             '/categories/lifestyle/',
             '/stylesheets/screen.css?v=4.0',
-            '/javascripts/octopress.js?v=4.1',
+            '/javascripts/octopress.js?v=4.2',
         ]);
     })
     );
