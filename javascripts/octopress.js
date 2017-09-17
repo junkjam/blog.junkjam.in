@@ -216,6 +216,9 @@ $(document).ready(function(){
     });  
 });
 
+
+var _qart = _qart || [];
+
 (function($,Article){
 	var config = {};
 
@@ -292,4 +295,8 @@ $(document).ready(function(){
         next : next,        
         init: init,
     });
+
+    if(_qart){
+        Article.init(_qart.pop())
+    }
 })($,(window.Article = window.Article || {}));

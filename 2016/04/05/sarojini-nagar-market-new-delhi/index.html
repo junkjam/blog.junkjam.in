@@ -45,7 +45,17 @@
 
   <link rel="manifest" href="/manifest.json?v=1.0" />
   <link rel="canonical" href="https://blog.junkjam.in/2016/04/05/sarojini-nagar-market-new-delhi/" />
+
   <link rel="dns-prefetch" href="https://blog.junkjam.in" />
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+  <link rel="dns-prefetch" href="https://apis.google.com" />
+  <link rel="dns-prefetch" href="https://cdn.onesignal.com" />
+  <link rel="dns-prefetch" href="https://ajax.googleapis.com" />
+  <link rel="dns-prefetch" href="https://connect.facebook.net" />
+  <link rel="dns-prefetch" href="https://ssl.google-analytics.com" />
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com" /> 
+
   <link rel="icon" href="/favicon.png" />
   <link rel="publisher" href="https://plus.google.com/+JunkjamIn" />
   <link rel="alternate" href="https://blog.junkjam.in/2016/04/05/sarojini-nagar-market-new-delhi/" hreflang="en-us" />
@@ -426,11 +436,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<script>var _qart=[];_qart.push({current:{slug:'/2016/04/05/sarojini-nagar-market-new-delhi/'}});</script>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-<script src="/javascripts/octopress.js?v=4.0"></script>
-<script>Article.init({current:{slug:'/2016/04/05/sarojini-nagar-market-new-delhi/'}})</script>
+<script async defer src="/javascripts/octopress.js?v=4.1"></script>
 
 <a href="#" id="subscribe-link" style="font-size: 10px;text-decoration: none;"></a>
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
@@ -497,23 +507,23 @@ window.addEventListener('load', function() {
   if('serviceWorker' in navigator){
   navigator.serviceWorker.register('/service-worker.js?v=4.0', { scope: './' })
     .then(function(r) {
-      console.log('registered service worker');
+      //console.log('registered service worker');
     })
     .catch(function(whut) {
-      console.error('uh oh... ');
-      console.error(whut);
+      //console.error('uh oh... ');
+      //console.error(whut);
     });
   }
   window.addEventListener('beforeinstallprompt', function(e) {
     // e.userChoice will return a Promise. For more details read: http://www.html5rocks.com/en/tutorials/es6/promises/
     e.userChoice.then(function(choiceResult) {
-      console.log(choiceResult.outcome);
+      //console.log(choiceResult.outcome);
       if(choiceResult.outcome == 'dismissed') {
-        console.log('User cancelled homescreen install');
+        //console.log('User cancelled homescreen install');
         userChoicePromise(choiceResult);
       }
       else {
-        console.log('User added to homescreen');
+        //console.log('User added to homescreen');
         userChoicePromise(choiceResult);
       }
     });
