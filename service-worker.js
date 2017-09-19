@@ -14,18 +14,22 @@ self.addEventListener('install', function(e) {
             '/categories/lifestyle/',
             '/stylesheets/screen.css?v=4.0',
             '/javascripts/octopress.js?v=4.2',
+            '/images/line-tile.png',
+            '/images/banner4.jpg',
+            '/images/email.png',
+            '/images/noise.png',
+            '/images/rss.png',
         ]);
     })
     );
 });
 
-
 self.addEventListener('fetch', function(event) {
     //console.log(event.request.url);
     event.respondWith(
-    caches.match(event.request).then(function(response) {
-        return response || fetch(event.request);
-    })
+        fetch(event.request).catch(function(error) {
+            return caches.match(event.request);
+        })
     );
 });
 
