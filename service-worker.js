@@ -1,6 +1,6 @@
 importScripts('/cache-polyfill.js');
 
-var version = 'v1.0';
+var version = 'v1.1';
 var cacheNameSpace = 'JunkJamBlog';
 var cacheName = cacheNameSpace + '-' + version;
 
