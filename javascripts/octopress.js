@@ -17,7 +17,12 @@
       return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
   };
 
+  function isDesktop(){
+    return ($(window).width() > 640);
+  };
+
   Utils = $.extend(Utils, {
+      isDesktop : isDesktop,
       formatString : formatString,
       urlParameter : urlParameter,
   });
@@ -207,7 +212,7 @@ $(document).ready(function(){
   var menu_header = $('.js-header');
   menu_header.scrollToFixed();
 
-  $('#amazon-affiliate').scrollToFixed({
+  Utils.isDesktop() && $('#amazon-affiliate').scrollToFixed({
       startpos: function(){
         return aside_sidebar.outerHeight()+aside_sidebar.offset().top+300;
       },
