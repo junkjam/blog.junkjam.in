@@ -4,7 +4,7 @@
   <title><![CDATA[Latest Posts Onfarewell | JunkJam Blog - Street Market! Fashion! LifeStyle!]]></title>
   <link href="https://blog.junkjam.in/categories/farewell/atom.xml" rel="self"/>
   <link href="https://blog.junkjam.in/"/>
-  <updated>2018-08-04T14:03:38+05:30</updated>
+  <updated>2018-08-04T14:16:51+05:30</updated>
   <id>https://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[JunkJam]]></name>
@@ -18,7 +18,7 @@
     <link href="https://blog.junkjam.in/2018/03/28/top-10-farewell-hindi-songs/"/>
     <updated>2018-03-28T01:41:02+05:30</updated>
     <id>https://blog.junkjam.in/2018/03/28/top-10-farewell-hindi-songs</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG">https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG</a>" width="600" height="700"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG">https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG</a>" width="600" height="700" src="href="https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG">https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG</a>"></noscript>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG">https://user-images.githubusercontent.com/1082157/38047887-6d44edbc-32e1-11e8-86cf-cd5b677097d9.JPG</a> 600 700 %}
 With spring comes the season of farewell, and marks the end of a golden era!!  It is the turn of life where everyone is equally excited and sad.</p>
 
 <!-- more -->

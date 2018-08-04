@@ -4,7 +4,7 @@
   <title><![CDATA[Latest Posts Onjunkjam | JunkJam Blog - Street Market! Fashion! LifeStyle!]]></title>
   <link href="https://blog.junkjam.in/categories/junkjam/atom.xml" rel="self"/>
   <link href="https://blog.junkjam.in/"/>
-  <updated>2018-08-04T14:03:38+05:30</updated>
+  <updated>2018-08-04T14:16:51+05:30</updated>
   <id>https://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[JunkJam]]></name>
@@ -18,7 +18,7 @@
     <link href="https://blog.junkjam.in/2018/07/15/feminism-beyonce-and-womania-songs/"/>
     <updated>2018-07-15T20:05:58+05:30</updated>
     <id>https://blog.junkjam.in/2018/07/15/feminism-beyonce-and-womania-songs</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif">https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif</a>" width="400" height="500"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif">https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif">https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif</a>"></noscript>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif">https://user-images.githubusercontent.com/1082157/42734896-36b8477a-8869-11e8-8780-98f1d35efdd9.gif</a> 400 500 %}
 Once Timothy Leary quoted <em>Women who seek to be equal with men lack ambition</em>, usually misattributed to Marilyn Monroe.  Feminism has been always misunderstood when it comes to women’s right. Feminism doesn’t teach us fighting against men nor does it say about equalizing with men’s power. When it comes to women empowerment, it mostly started aesthetically. Music industry has always portrayed feminism in supreme way; here are the Beyonce’s songs that you might want to add in your playlist.</p>
 
 <!-- more -->
@@ -27,7 +27,16 @@ Once Timothy Leary quoted <em>Women who seek to be equal with men lack ambition<
 <h3>1)  Flawless</h3>
 
 <p>Right from the beginning to the end of the song, she says that women are flawless. If we go with the lyrics, it’s very clear that she doesn’t gives a damn to men and their society. Tuning into lyrics-
-<blockquote><p>You wake up, flawless<br/>Post up, flawless<br/>Ride Round in it, flawless<br/>Flossing on that, flawless<br/>This diamond, flawless<br/>My diamond, flawless<br/>This rock, flawless<br/>My rock, flawless</p></blockquote></p>
+{% blockquote %}
+You wake up, flawless
+Post up, flawless
+Ride Round in it, flawless
+Flossing on that, flawless
+This diamond, flawless
+My diamond, flawless
+This rock, flawless
+My rock, flawless
+{% endblockquote %}</p>
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IyuUWOnS9BY" frameborder="0" allowfullscreen></iframe>
@@ -38,7 +47,7 @@ Once Timothy Leary quoted <em>Women who seek to be equal with men lack ambition<
 
 <h3>2) Run The World</h3>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif">https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif">https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif">https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif</a>"></noscript>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif">https://user-images.githubusercontent.com/1082157/42734897-36ff011a-8869-11e8-9bd2-6bd0393719d8.gif</a> 400 500 %}
 This song is almost like Girls Anthem because it gives goose bumps when the video is watched. The video may seem like the exaggeration of the women empowerment, but that’s what the track is about: women conquering the world; so yeah “Who run the world?” Hell yeah, girls run the world! You Go Beyonce!</p>
 
 <div class="videoWrapper">
@@ -50,7 +59,7 @@ This song is almost like Girls Anthem because it gives goose bumps when the vide
 
 <h3>3) Single Ladies</h3>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif">https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif">https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif">https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif</a>"></noscript>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif">https://user-images.githubusercontent.com/1082157/42734898-374644e4-8869-11e8-903a-2d2079a8b76a.gif</a> 400 500 %}
 To all the single ladies out there, you are a shero and you don’t need a man to label your life! The song explores the bad side women’s world with the black and white theme in it. Throwing her sexiness to attract more, she sings, “I am up on him, he up on me, don’t pay him any attention!” Without being slutty, she carries her sexiness throughout the song. Xoxo</p>
 
 <div class="videoWrapper">
@@ -73,7 +82,7 @@ To all the single ladies out there, you are a shero and you don’t need a man t
 
 <h3>5) Sorry</h3>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif">https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif">https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif">https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif</a>"></noscript>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif">https://user-images.githubusercontent.com/1082157/42734899-378af6c0-8869-11e8-85c7-09110ae87f2a.gif</a> 400 500 %}
 It is very obvious that the song is about apology but Beyonce in the lyrics mentions those words which women might wanna spit it out on men for “relationship” (again). In the lyrics she sings that- Sorry but she isn’t sorry. Now that beautiful line is really a strong statement with sentiments in attitude which a woman need to have to carry her bag of emotions.  Woman should not hurt themselves for a man who isn’t paying attention to her at all. The lyrics are flowing with the sentiments.</p>
 
 <div class="videoWrapper">
@@ -126,7 +135,7 @@ The song celebrates women’s victory after winning the match. Truly after achie
 The words in this song are so heart touching that it gives goose bumps. It speaks of exploitation that a woman or a girl faces in Indian society. The song expresses the gratitude towards Chiraiya (girl) and warmly welcomes her.</p>
 
 <p>That’s all we have right now. You go girl. Beyonce is inside.
-<img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif">https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif</a>" width="400" height="500"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif">https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif">https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif</a>"></noscript></p>
+{% img left <a href="https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif">https://user-images.githubusercontent.com/1082157/42734900-37d5be6c-8869-11e8-8cca-a7be58b88c2d.gif</a> 400 500 %}</p>
 ]]></content>
   </entry>
   
@@ -135,7 +144,7 @@ The words in this song are so heart touching that it gives goose bumps. It speak
     <link href="https://blog.junkjam.in/2018/07/14/whatsapp-alert-no-need-to-save-one-time-number/"/>
     <updated>2018-07-14T12:13:37+05:30</updated>
     <id>https://blog.junkjam.in/2018/07/14/whatsapp-alert-no-need-to-save-one-time-number</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png">https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png</a>" width="400" height="500"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png">https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png">https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png</a>"></noscript></p>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png">https://user-images.githubusercontent.com/1082157/42721849-4935d616-875f-11e8-8fa3-2b5594369bed.png</a> 400 500 %}</p>
 
 <h3>Junk Whatsapp:</h3>
 
@@ -159,7 +168,7 @@ Junkjam has got the solution for your junk messaging. Now you do not need to sav
 <li>Go to link: <a href="https://whatsapp.junkjam.in" target="_blank"><a href="https://whatsapp.junkjam.in">https://whatsapp.junkjam.in</a></a></li>
 <li>This link will directly refer you to your whatsapp messenger</li>
 <li>Feed the number to who you want to text
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png">https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png</a>" width="400" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png">https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png</a>" width="400" height="600" src="href="https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png">https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png</a>"></noscript></li>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png">https://user-images.githubusercontent.com/1082157/42721848-48d4ba8e-875f-11e8-92f7-7c67cb3ac2e3.png</a> 400 600 %}</li>
 <li>Eureka! Done!!!</li>
 </ul>
 
@@ -180,7 +189,7 @@ Follow the steps below:</p>
 
 <ol>
 <li>Click 3 dots on the right top of the page
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png">https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png</a>" width="400" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png">https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png</a>" width="400" height="600" src="href="https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png">https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png</a>"></noscript></li>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png">https://user-images.githubusercontent.com/1082157/42721850-498f4bf6-875f-11e8-8943-99c287a2af87.png</a> 400 600 %}</li>
 <li>Add to the homescreen</li>
 <li>Done</li>
 </ol>
@@ -195,7 +204,7 @@ Follow the steps below:</p>
     <link href="https://blog.junkjam.in/2017/02/12/6-awesome-valentine-day-ideas-for-ldr/"/>
     <updated>2017-02-12T19:36:03+05:30</updated>
     <id>https://blog.junkjam.in/2017/02/12/6-awesome-valentine-day-ideas-for-ldr</id>
-    <content type="html"><![CDATA[<p><img class="left  <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg">https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg</a>" width="400" height="600"/><noscript><img class="left  <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg">https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg</a>" width="400" height="600" src="href="https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg">https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg</a>"></noscript>
+    <content type="html"><![CDATA[<p>{% img left  <a href="https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg">https://cloud.githubusercontent.com/assets/21153184/22875106/ded768da-f1ef-11e6-95b0-08170d5f0585.jpg</a> 400 600 %}
 With February 14 is so so close, you may be wondering how to celebrate Valentine’s Day when you’re in a long-distance relationship.</p>
 
 <p>Hey! You’re certainly not alone — 14 million couples report being in a long-distance relationship, according to a study by Statistic Brain.</p>
@@ -208,27 +217,27 @@ So, what should you give to your honey bee, to make her feel loved?  The answer 
 
 <h2>1.   Start your Day with Facetime, Skype - Any Video Calling.</h2>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png">https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png">https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png</a>" width="400" height="500" src="href="https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png">https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png">https://cloud.githubusercontent.com/assets/21153184/22875100/dea88cb8-f1ef-11e6-8ea6-cb7ea4123836.png</a> 400 500 %}</p>
 
 <h2>2.   Send him/her a small surprise gift.</h2>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg">https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg">https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg</a>" width="400" height="500" src="href="https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg">https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg">https://cloud.githubusercontent.com/assets/21153184/22875099/dea34208-f1ef-11e6-9d6d-d3fc905998b3.jpg</a> 400 500 %}</p>
 
 <h2>3.   Send him/her Surprising Notes and tell how much you love in different ways.</h2>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg">https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg">https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg</a>" width="400" height="500" src="href="https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg">https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg">https://cloud.githubusercontent.com/assets/21153184/22875102/dea8923a-f1ef-11e6-8550-56a348a68de7.jpg</a> 400 500 %}</p>
 
 <h2>4.   Make a collage, upload it on your social media and tag them with beautiful hash tags.</h2>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg">https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg">https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg</a>" width="400" height="500" src="href="https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg">https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg">https://cloud.githubusercontent.com/assets/21153184/22875101/dea88df8-f1ef-11e6-82c6-180d35f1681a.jpg</a> 400 500 %}</p>
 
 <h2>5.   Have an Online dinner date.</h2>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg">https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg">https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg</a>" width="400" height="500" src="href="https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg">https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg">https://cloud.githubusercontent.com/assets/21153184/22875105/deb00380-f1ef-11e6-927f-91ac33f1c32e.jpg</a> 400 500 %}</p>
 
 <h2>6.   Reach &amp; Surprise him/her at their place.</h2>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg">https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg">https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg</a>" width="400" height="500" src="href="https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg">https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg">https://cloud.githubusercontent.com/assets/21153184/22875103/deab0178-f1ef-11e6-92b3-5de0357809e5.jpg</a> 400 500 %}</p>
 
 <p>Hope you will have a wonderful,loving &amp; adorable valentine day.. Love yaa.!!!!</p>
 ]]></content>
@@ -239,7 +248,7 @@ So, what should you give to your honey bee, to make her feel loved?  The answer 
     <link href="https://blog.junkjam.in/2017/02/07/6-must-haves-if-applying-for-a-foreign-college/"/>
     <updated>2017-02-07T19:36:03+05:30</updated>
     <id>https://blog.junkjam.in/2017/02/07/6-must-haves-if-applying-for-a-foreign-college</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg">https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg</a>" width="470" height="600"/><noscript><img class="left <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg">https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg</a>" width="470" height="600" src="href="https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg">https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg</a>"></noscript>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg">https://cloud.githubusercontent.com/assets/1082157/22694596/da270524-ed6d-11e6-816a-b32e9d91c746.jpg</a> 470 600 %}
 If a study abroad programme seems appealing to you and you’ve applied or been selected and you are now super-duper excited about the abroad adventure. Well, congratulations! The next step is to prepare yourself for the trip. So make a probable questionnaire and kick start your preparation. Here we have complied 6 must have points in your to-do list while planning your trip.</p>
 
 <!-- more -->
@@ -300,7 +309,7 @@ If a study abroad programme seems appealing to you and you’ve applied or been 
     <link href="https://blog.junkjam.in/2017/01/15/omg-10-insane-things-your-favourite-celebrities-believe/"/>
     <updated>2017-01-15T12:47:35+05:30</updated>
     <id>https://blog.junkjam.in/2017/01/15/omg-10-insane-things-your-favourite-celebrities-believe</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a>"/><noscript><img class="left <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a>" src="href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a>"></noscript>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a> %}
 Well we all love Bollywood’s Thumkas and jhatkas without NO doubts but we hear about their insane believes, it will straight forwardly put all us into persist snigger! Superstition is a senseless fear of God that NOT only show our much loved stars into disgust situations but also proof that Everyone is NOT perfect though as it sees..</p>
 
 <!-- more -->
@@ -310,7 +319,7 @@ Well we all love Bollywood’s Thumkas and jhatkas without NO doubts but we hear
 
 <h1>10 Shilpa Shetty</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg">https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg</a>" title="Shilpa Shetty" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg">https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg</a>" title="Shilpa Shetty" src="href="https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg">https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg">https://cloud.githubusercontent.com/assets/1082157/21960991/60b112ae-db23-11e6-9836-f02fa61cf7ea.jpg</a> Shilpa Shetty %}</p>
 
 <p>Our number 10 celebrity is our favourite dhumkas girl. This superstar, super model and modern Entrepreneur that each girl want to be like has lot s more to stay herself practical to keep out of her laughing list.</p>
 
@@ -320,7 +329,7 @@ Well we all love Bollywood’s Thumkas and jhatkas without NO doubts but we hear
 
 <h1>9 Bipasha Basu</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg">https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg</a>" title="Bipasha Basu" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg">https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg</a>" title="Bipasha Basu" src="href="https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg">https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg">https://cloud.githubusercontent.com/assets/1082157/21960992/60b958ce-db23-11e6-96ce-5e3b06078e11.jpg</a> Bipasha Basu %}</p>
 
 <p>Always on the news for her fitness and over sensuous body, now this bollywood queen caught in our list with her over senseless thinking on the FEAR or faith over devil in particular. This Bengali sexy diva is always seen in horror movie but our reader will be chuckle after knowing her INSANE flicks for keeping lemon and green chillies in car every Saturday to keep her safe from evil eye.</p>
 
@@ -328,7 +337,7 @@ Well we all love Bollywood’s Thumkas and jhatkas without NO doubts but we hear
 
 <h1>8 Katrina Kaif</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg">https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg</a>" title="Katrina Kaif" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg">https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg</a>" title="Katrina Kaif" src="href="https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg">https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg">https://cloud.githubusercontent.com/assets/1082157/21960993/60c3640e-db23-11e6-8cec-ed662be5242f.jpg</a> Katrina Kaif %}</p>
 
 <p>Our bollywood Barbie doll is always in the mind for her sexy face and controversial love relationships. But this time she is stuck with our list for her superstitious belief of dargah of Sufi saint Khwaja Moinuddin Chisti in Ajmer before of movie release date.</p>
 
@@ -336,14 +345,14 @@ Well we all love Bollywood’s Thumkas and jhatkas without NO doubts but we hear
 
 <h1>7 Deepika Padukone</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg">https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg</a>" title="Deepika Padukone" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg">https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg</a>" title="Deepika Padukone" src="href="https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg">https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg">https://cloud.githubusercontent.com/assets/1082157/21960994/60c5ee68-db23-11e6-8636-b73c68db6b88.jpg</a> Deepika Padukone %}</p>
 
 <p>After Katrina, Deepika is our next number to have insensible faith that sure said to be insane.  Going with the flow as Kat, she visits Siddhivinayak Temple in Prabhadevi.
 Well visiting temple is NOT weird, but making it OBLIGATERY is INSANE.</p>
 
 <h1>6 Ajay Devgn</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg">https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg</a>" title="Ajay Devgn" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg">https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg</a>" title="Ajay Devgn" src="href="https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg">https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg">https://cloud.githubusercontent.com/assets/1082157/21960995/60c97baa-db23-11e6-831a-226f32d33843.jpg</a> Ajay Devgn %}</p>
 
 <p>Well guys DONT blame me if you ACTUALLY do the Dublicheaked with th google for this as it is 100% TRUE  or NOT that out KJos hubby has REMOVED “a” from his surname to have successful career!</p>
 
@@ -355,7 +364,7 @@ Well visiting temple is NOT weird, but making it OBLIGATERY is INSANE.</p>
 
 <h1>5 Sanjay Dutt</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg">https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg</a>" title="Sanjay Dutt" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg">https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg</a>" title="Sanjay Dutt" src="href="https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg">https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg">https://cloud.githubusercontent.com/assets/1082157/21960996/60ce3b22-db23-11e6-9962-da20209b3697.jpg</a> Sanjay Dutt %}</p>
 
 <p>Well I am sure that all of my readers must have watched Munna bhai Mbbs? Yes?
 Have you remember our favourite Munna have do heart touching gandhigiri to remove that Pandit taboo for mangalic vivah..</p>
@@ -370,7 +379,7 @@ Have you remember our favourite Munna have do heart touching gandhigiri to remov
 
 <h1>4 Aamir Khan</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg">https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg</a>" title="Aamir Khan" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg">https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg</a>" title="Aamir Khan" src="href="https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg">https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg">https://cloud.githubusercontent.com/assets/1082157/21960997/60f10792-db23-11e6-8f8a-371a2acf3392.jpg</a> Aamir Khan %}</p>
 
 <p>oOops Aamir is  ACTUALLY a heart breaking name to see in this list for sure. Having famous to be called as Mr. Perfectionist in Bollywood industry and looked up by millions of young minds, this INSANE thing is NOT so cool.</p>
 
@@ -382,7 +391,7 @@ Have you remember our favourite Munna have do heart touching gandhigiri to remov
 
 <h1>3 Kareena Kapoor Khan</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg">https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg</a>" title="Kareena Kapoor Khan" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg">https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg</a>" title="Kareena Kapoor Khan" src="href="https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg">https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg">https://cloud.githubusercontent.com/assets/1082157/21960998/60f63708-db23-11e6-8f28-43402f375d41.jpg</a> Kareena Kapoor Khan %}</p>
 
 <p>Our bebo has taken 3rd positions in the race for her insane things in this list. You want to know how? She being the hottest and most followed on the bollywood theme lines, she is now in the laughing stalks for her obsession for NUMBER 3 on the car plates.</p>
 
@@ -390,7 +399,7 @@ Have you remember our favourite Munna have do heart touching gandhigiri to remov
 
 <h1>2 Salman Khan</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg">https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg</a>" title="Salman Khan" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg">https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg</a>" title="Salman Khan" src="href="https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg">https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg">https://cloud.githubusercontent.com/assets/1082157/21960999/61003d5c-db23-11e6-88c9-ded759e37232.jpg</a> Salman Khan %}</p>
 
 <p>He is hot and handsome, BUT surely this time he is NOT so COOL!</p>
 
@@ -400,7 +409,7 @@ Have you remember our favourite Munna have do heart touching gandhigiri to remov
 
 <h1>1 Shah Rukh Khan</h1>
 
-<p><img class="center <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a>" title="Shah Rukh Khan" /><noscript><img class="center <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a>" title="Shah Rukh Khan" src="href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a>"></noscript>
+<p>{% img center <a href="https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg">https://cloud.githubusercontent.com/assets/1082157/21961000/61034542-db23-11e6-9134-d49d9277a01c.jpg</a> Shah Rukh Khan %}
 KING Khan with NOT much doubt takes our TOP position in our list with his number 555 superstitious trend.</p>
 
 <p>It is INSANE. IT is ILLOGICAL!!!</p>

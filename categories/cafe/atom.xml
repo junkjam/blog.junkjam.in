@@ -4,7 +4,7 @@
   <title><![CDATA[Latest Posts Oncafe | JunkJam Blog - Street Market! Fashion! LifeStyle!]]></title>
   <link href="https://blog.junkjam.in/categories/cafe/atom.xml" rel="self"/>
   <link href="https://blog.junkjam.in/"/>
-  <updated>2018-08-04T14:03:38+05:30</updated>
+  <updated>2018-08-04T14:16:51+05:30</updated>
   <id>https://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[JunkJam]]></name>
@@ -18,7 +18,7 @@
     <link href="https://blog.junkjam.in/2018/04/11/champa-gali-new-delhi/"/>
     <updated>2018-04-11T22:23:00+05:30</updated>
     <id>https://blog.junkjam.in/2018/04/11/champa-gali-new-delhi</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg">https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg</a>" width="500" height="450"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg">https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg</a>" width="500" height="450" src="href="https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg">https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg</a>"></noscript>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg">https://user-images.githubusercontent.com/1082157/38631485-81c0d584-3dd7-11e8-88dd-ef89ce2a1150.jpg</a> 500 450 %}
 The alley, situated in Saidulajab village next to Saket in South Delhi, aborting the search of serenity in the city full of hustle bustle. The urban village transports you to lanes of France with its Parisian theme. The Champa gali houses Cafes, tea shop, Hand-crafted stores, restaurant to dine in, design studio and a room full of books which is highly recommended to people who want to spend some alone time or to discuss some innovative idea for the start-up.</p>
 
 <!-- more -->
@@ -32,14 +32,14 @@ The alley, situated in Saidulajab village next to Saket in South Delhi, aborting
 
 <h4>Timing : 12pm to 11 pm  (Monday to Sunday)</h4>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg">https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg">https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg">https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg">https://user-images.githubusercontent.com/1082157/38631487-821e4c5a-3dd7-11e8-801a-0fb92ba4c09b.jpg</a> 500 600 %}</p>
 
 <h3>The Liberty Village</h3>
 
 <p>The Liberty Village, lying in the corner of the champa gali, is the first of its kind of venture. The theme of the shop is flea market. They are giving away stuffs from some dream brands like LULU &amp; SKY  in throw away prices, YES..YOU HEARD IT RIGHT!! The reasons to visit the LIBERTY VILLAGE do not end here. The shop has got accessories and so customized COUPLE RINGS, quirky home decor and a restaurant inside to dine in. Themed wall to click pictures is another add on here.</p>
 
 <p>A place to fulfil your shopping hunger. The place has different varieties of fragrance, t-shirts, eye-catching clutches and heels to offer.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png">https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png</a>" width="600" height="700"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png">https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png</a>" width="600" height="700" src="href="https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png">https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png">https://user-images.githubusercontent.com/1082157/40589081-f3f0b43e-6204-11e8-8f78-f8318d349163.png</a> 600 700 %}</p>
 
 <h3>Morellos</h3>
 
@@ -47,7 +47,7 @@ The alley, situated in Saidulajab village next to Saket in South Delhi, aborting
 
 <h4>Timing: 11 am to 10 pm (Monday to Sunday)</h4>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg">https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg">https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg">https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg">https://user-images.githubusercontent.com/1082157/38631489-82674e28-3dd7-11e8-811f-6653c382ed25.jpg</a> 500 600 %}</p>
 
 <h3>Blue Tokai</h3>
 
@@ -55,12 +55,12 @@ The alley, situated in Saidulajab village next to Saket in South Delhi, aborting
 
 <h4>Timing: 9am to 10pm (Monday to Sunday)</h4>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg">https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg">https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg">https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg">https://user-images.githubusercontent.com/1082157/38631490-82af595c-3dd7-11e8-9149-482026b20ffd.jpg</a> 500 600 %}</p>
 
 <h3>The People Tree</h3>
 
 <p>This outlet could easily be pointed out with the marquee announcing the name out loud and what will lure you inside is, the show-pieces kept behind the glass. The studio-cum-shop has creative space showcasing unique stationary items made of natural and biodegradable materials, khadi and block printed apparels, quirky jewellery and variety of skin care products.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg">https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg">https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg">https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg">https://user-images.githubusercontent.com/1082157/38631491-82f5b6d6-3dd7-11e8-840d-5a821824351f.jpeg</a> 500 600 %}</p>
 
 <h3>Jugmug Thela</h3>
 
@@ -69,7 +69,7 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 
 <h4>Timing: 11am to 7:30pm (Monday to Sunday)</h4>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg">https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg">https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg">https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg">https://user-images.githubusercontent.com/1082157/38631492-833a0912-3dd7-11e8-8ad8-2b406353a58a.jpg</a> 500 600 %}</p>
 
 <h3>Jugaad</h3>
 
@@ -77,18 +77,18 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 
 <h4>Timing: 11am to 7:30 pm (Monday to Sunday)</h4>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg">https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg">https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg">https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg">https://user-images.githubusercontent.com/1082157/38631493-8379d2d6-3dd7-11e8-8323-e8de38a79a55.jpg</a> 500 600 %}</p>
 
 <h3>Mettalurgy STUDIO</h3>
 
 <p>This art and design innovation studio has some quirky design of home decor to offer.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png">https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png</a>" width="500" height="600"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png">https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png">https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png">https://user-images.githubusercontent.com/1082157/38632468-776974a8-3dda-11e8-81c0-65928766c3d4.png</a>  500 600 %}</p>
 
 <h3>Social Events:</h3>
 
 <p>The secret alley in the capital also hosts number of exhibitions, evening of poetry and music-jig, which is organized in the backyard of these shops. To stay updated click here: <a href="https://www.facebook.com/champagali/">https://www.facebook.com/champagali/</a></p>
 
-<p><img class="center i<a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg">https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg</a>" width="500" height="600"/><noscript><img class="center i<a" data-original="href="https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg">https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg</a>" width="500" height="600" src="href="https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg">https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg</a>"></noscript></p>
+<p>{% img center i<a href="https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg">https://user-images.githubusercontent.com/1082157/38631494-83c0edba-3dd7-11e8-9e28-551f965b9ae3.jpg</a> 500 600 %}</p>
 
 <h4>Location:</h4>
 
@@ -107,7 +107,7 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
     <link href="https://blog.junkjam.in/2017/09/16/cafe-31-fine-place-in-sector-31-gurgaon/"/>
     <updated>2017-09-16T12:52:51+05:30</updated>
     <id>https://blog.junkjam.in/2017/09/16/cafe-31-fine-place-in-sector-31-gurgaon</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png">https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png</a>" width="500" height="500"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png">https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png</a>" width="500" height="500" src="href="https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png">https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png</a>"></noscript></p>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png">https://user-images.githubusercontent.com/1082157/30511776-a03a2c18-9afd-11e7-8ba8-2d702b5ffc24.png</a> 500 500 %}</p>
 
 <p>Little pearls are now and again found in the swarmed hedge, on the off chance that you have discovered one, consider your self fortunate. I was fortunate throughout the end of the week when we went to this little outlet in Sec 31, Huda Market, another set called CAFE 31.</p>
 
@@ -116,36 +116,36 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 
 <p>The outlet worked two young fellows has brimming with vitality and crudeness, as I comprehend, its self planned so the magnificence of off track configuration has its own appeal.</p>
 
-<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg">https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg</a>" width="300" height="500"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg">https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg</a>" width="300" height="500" src="href="https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg">https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg</a>"></noscript>
-<img class="right <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg">https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg</a>" width="400" height="500"/><noscript><img class="right <a" data-original="href="https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg">https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg">https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg</a>"></noscript></p>
+<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg">https://user-images.githubusercontent.com/1082157/30510075-58a45bb6-9adb-11e7-9764-14c4f47d6489.jpg</a> 300 500 %}
+{% img right <a href="https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg">https://user-images.githubusercontent.com/1082157/30238433-3fd172fc-9565-11e7-8fb6-c66abaacf79a.jpg</a> 400 500 %}</p>
 
 <h2>Vibe:</h2>
 
 <p>Just the correct one to snatch a little mainland nibble, you cannot bear to remain there for a long as a result of space crunch however usage of accessible space is great, no individuals to individuals interface regardless of space crunch.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg">https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg">https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg">https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg">https://user-images.githubusercontent.com/1082157/30238434-3fd44694-9565-11e7-9f64-0834f856cbcb.jpg</a> %}</p>
 
 <h2>Nourishment and Beverages:</h2>
 
 <p>The best piece of bistro and that is everything about, we attempted Margherita Pizza and Smokey Grill Pasta alongside ordinary Indian espresso. Adored the effortlessness and freshness of Pasta, nothing was exaggerated, you were getting every one of the flavors on sense of taste.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg">https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg">https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg">https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg">https://user-images.githubusercontent.com/1082157/30510074-58a0db26-9adb-11e7-8dc5-538428881ef9.jpg</a> %}</p>
 
 <h2>Client Centricity:</h2>
 
 <p>Good, individual revelation, the outlet is claimed by somebody I know subsequently we got individual consideration.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg">https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg">https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg">https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg">https://user-images.githubusercontent.com/1082157/30510073-58a0c2d0-9adb-11e7-9d7d-cf31fd91a72c.jpg</a> %}</p>
 
 <h2>Value for Money:</h2>
 
 <p>Absolutely us, our pasta costs us Rs 200 and it was quite recently the correct cost for it. The outlet additionally has couple of things valued at Rs 31, incredible fascination point.
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg">https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg">https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg">https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg">https://user-images.githubusercontent.com/1082157/30510077-58ab7fea-9adb-11e7-8626-1c766e194fb3.jpg</a> %}</p>
 
 <h2>Foundation, Parking and Driveway:</h2>
 
 <p>Cafe is in crowed Sec 31 advertise, you cant with the exception of smooth understanding on stopping, you are fortunate on the off chance that you get it. The outlet has enough seating limit, has been stretched out to verandah too, would be worth investing some energy in open, uncommonly in winter.</p>
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg">https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg</a>" width="700" height="500"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg">https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg</a>" width="700" height="500" src="href="https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg">https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg</a>"></noscript>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg">https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg</a>" width="400" height="500"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg">https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg</a>" width="400" height="500" src="href="https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg">https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg</a>"></noscript>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg">https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg">https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg">https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg">https://user-images.githubusercontent.com/1082157/30238432-3fcf5e0e-9565-11e7-8caa-d85f2a875b59.jpg</a> 700 500 %}
+{% img center <a href="https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg">https://user-images.githubusercontent.com/1082157/30510076-58a84a1e-9adb-11e7-8846-84af7506129a.jpg</a> 400 500 %}
+{% img center <a href="https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg">https://user-images.githubusercontent.com/1082157/30510078-58aeb50c-9adb-11e7-9958-335302c7609b.jpg</a> %}</p>
 ]]></content>
   </entry>
   
@@ -154,7 +154,7 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
     <link href="https://blog.junkjam.in/2017/08/15/10-most-visit-cafes-in-gurgaon/"/>
     <updated>2017-08-15T15:05:22+05:30</updated>
     <id>https://blog.junkjam.in/2017/08/15/10-most-visit-cafes-in-gurgaon</id>
-    <content type="html"><![CDATA[<p><img class="left <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg">https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg</a>" width="560" height="400"/><noscript><img class="left <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg">https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg</a>" width="560" height="400" src="href="https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg">https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg</a>"></noscript></p>
+    <content type="html"><![CDATA[<p>{% img left <a href="https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg">https://user-images.githubusercontent.com/1082157/29312456-036dfbdc-81d3-11e7-96e1-d567af8ba219.jpg</a> 560 400 %}</p>
 
 <p>Check out must visit cafés in Gurgaon to experience most thrilling and delicious food items this weekend.</p>
 
@@ -166,7 +166,7 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 <p>These popular cafes will certainly attract you with their chic interiors, a variety of scrumptious food items, freshly brewed coffees and a range of shakes and smoothies.</p>
 
 <p><strong>1. Café Delhi heights</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg">https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg">https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg">https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg">https://user-images.githubusercontent.com/1082157/29312164-c643eb64-81d1-11e7-8c27-c63b3360b33f.jpg</a> %}</p>
 
 <ul>
 <li>Location: DLF Cyber city</li>
@@ -178,7 +178,7 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 
 
 <p><strong>2. Café wanderlust</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg">https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg">https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg">https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg">https://user-images.githubusercontent.com/1082157/29312163-c63fd240-81d1-11e7-89a0-a7132ba5bf20.jpg</a> %}</p>
 
 <ul>
 <li>Location: DLF Phase 4</li>
@@ -189,10 +189,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg">https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg">https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg">https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg">https://user-images.githubusercontent.com/1082157/29312162-c62eee76-81d1-11e7-9c3a-89158189fa56.jpg</a> %}</p>
 
 <p><strong>3. Another fine day</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg">https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg">https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg">https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg">https://user-images.githubusercontent.com/1082157/29312161-c6238266-81d1-11e7-985f-c6558651103b.jpg</a> %}</p>
 
 <ul>
 <li>Location: Golf course road</li>
@@ -203,10 +203,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg">https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg">https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg">https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg">https://user-images.githubusercontent.com/1082157/29312160-c61a20b8-81d1-11e7-9785-b6f27b604760.jpg</a> %}</p>
 
 <p><strong>4. Sakley’s – The mountain café</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg">https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg">https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg">https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg">https://user-images.githubusercontent.com/1082157/29312159-c615b776-81d1-11e7-893e-8752279284d7.jpg</a> %}</p>
 
 <ul>
 <li>Location: Galleria market, DLF Phase 4</li>
@@ -217,10 +217,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg">https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg">https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg">https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg">https://user-images.githubusercontent.com/1082157/29312158-c6135c6a-81d1-11e7-9d04-347616527a5d.jpg</a> %}</p>
 
 <p><strong>5. Café soul garden</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg">https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg">https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg">https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg">https://user-images.githubusercontent.com/1082157/29312157-c60a68d0-81d1-11e7-857d-bf8fea0840bc.jpg</a> %}</p>
 
 <ul>
 <li>Location: DLF Phase 4</li>
@@ -231,10 +231,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg">https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg">https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg">https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg">https://user-images.githubusercontent.com/1082157/29312155-c5fd2530-81d1-11e7-9c0d-edbde9c64072.jpg</a> %}</p>
 
 <p><strong>6. Amici café</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg">https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg">https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg">https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg">https://user-images.githubusercontent.com/1082157/29312153-c5ed6384-81d1-11e7-902f-c25b7e74b2c6.jpg</a> %}</p>
 
 <ul>
 <li>Location: DLF Cyber City</li>
@@ -245,10 +245,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg">https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg">https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg">https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg">https://user-images.githubusercontent.com/1082157/29312152-c5ebf184-81d1-11e7-9db8-ae7cb16c017a.jpg</a> %}</p>
 
 <p><strong>7. The joint café</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg">https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg">https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg">https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg">https://user-images.githubusercontent.com/1082157/29312150-c5e57f20-81d1-11e7-9e3e-b571ed6f488b.jpg</a> %}</p>
 
 <ul>
 <li>Location: DLF Phase 4</li>
@@ -259,10 +259,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg">https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg">https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg">https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg">https://user-images.githubusercontent.com/1082157/29312151-c5e59e92-81d1-11e7-9b2f-aac97416ca85.jpg</a> %}</p>
 
 <p><strong>8. Delifrance</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg">https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg">https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg">https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg">https://user-images.githubusercontent.com/1082157/29312149-c5cc4db6-81d1-11e7-8d52-7b456a0f1387.jpg</a> %}</p>
 
 <ul>
 <li>Location: DLF Cyber city</li>
@@ -273,10 +273,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg">https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg">https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg">https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg">https://user-images.githubusercontent.com/1082157/29312148-c5caf362-81d1-11e7-96fa-3c19f7a40360.jpg</a> %}</p>
 
 <p><strong>9. Roots café</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a> %}</p>
 
 <ul>
 <li>Location: Sector 29</li>
@@ -287,10 +287,10 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg">https://user-images.githubusercontent.com/1082157/29312146-c5b8377c-81d1-11e7-81b7-acbc5eb8cfb7.jpg</a> %}</p>
 
 <p><strong>10. The bikers café</strong>
-<img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg">https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg">https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg">https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg</a>"></noscript></p>
+{% img center <a href="https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg">https://user-images.githubusercontent.com/1082157/29312144-c5b49c8e-81d1-11e7-8682-ba7415f98715.jpg</a> %}</p>
 
 <ul>
 <li>Location: Golf course road</li>
@@ -301,7 +301,7 @@ Apart from dozen of Masala Chai flavours, Vietnamese Cold Coffee, Vinnese cream 
 </ul>
 
 
-<p><img class="center <a lazy" data-original="href="https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg">https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg</a>"/><noscript><img class="center <a" data-original="href="https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg">https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg</a>" src="href="https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg">https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg</a>"></noscript></p>
+<p>{% img center <a href="https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg">https://user-images.githubusercontent.com/1082157/29312145-c5b4e04a-81d1-11e7-8936-64c7fb46231b.jpg</a> %}</p>
 
 <h3>References</h3>
 
