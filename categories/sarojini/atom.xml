@@ -4,7 +4,7 @@
   <title><![CDATA[Latest Posts Onsarojini | JunkJam | Fashion! LifeStyle! Market! Travel!]]></title>
   <link href="https://blog.junkjam.in/categories/sarojini/atom.xml" rel="self"/>
   <link href="https://blog.junkjam.in/"/>
-  <updated>2018-10-21T15:57:31+05:30</updated>
+  <updated>2018-11-22T16:55:55+05:30</updated>
   <id>https://blog.junkjam.in/</id>
   <author>
     <name><![CDATA[JunkJam]]></name>
@@ -38,7 +38,7 @@
     <updated>2016-04-05T22:53:49+05:30</updated>
     <id>https://blog.junkjam.in/2016/04/05/sarojini-nagar-market-new-delhi</id>
     <content type="html"><![CDATA[<p>Sarojini Nagar Market (SN Market) is one of the most coveted markets of Delhi NCR. It has been North Capital Region’s most favourable shopping destination at killer prices. Sarojini Nagar has never been a disappointment whether one has to buy shoes, trendy clothes, fashionable jewellery or designer bags. And of course, there is no use of shopping without a healthy bargain dose.
-<img class="left <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg">https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg</a>" width="500" height="650" title="Sarojini Market" /><noscript><img class="left <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg">https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg</a>" width="500" height="650" title="Sarojini Market" src="href="https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg">https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg</a>"></noscript></p>
+{% img left <a href="https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg">https://cloud.githubusercontent.com/assets/1082157/14292309/359e5474-fb85-11e5-8011-526600b714bb.jpg</a> 500 650 Sarojini Market %}</p>
 
 <!-- more -->
 
@@ -54,7 +54,7 @@
 </ol>
 
 
-<p><img class="right <a lazy" data-original="href="https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg">https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg</a>" width="800" height="500" title="Sarojini Bargain" /><noscript><img class="right <a" data-original="href="https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg">https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg</a>" width="800" height="500" title="Sarojini Bargain" src="href="https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg">https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg</a>"></noscript></p>
+<p>{% img right <a href="https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg">https://cloud.githubusercontent.com/assets/1082157/14292315/3a8c39d8-fb85-11e5-8c8c-0af2e5ee19b8.jpg</a> 800 500 Sarojini Bargain %}</p>
 
 <p>Some crazy and unbelievable facts about Sarojini Nagar:</p>
 
@@ -69,7 +69,7 @@
 </ul>
 
 
-<!--<img class="left lazy" data-original="https://cloud.githubusercontent.com/assets/1082157/14292312/38a8a778-fb85-11e5-8b17-b0f3228643e4.jpg" title="Sarojini Girl" /><noscript><img class="left" data-original="https://cloud.githubusercontent.com/assets/1082157/14292312/38a8a778-fb85-11e5-8b17-b0f3228643e4.jpg" title="Sarojini Girl" src="https://cloud.githubusercontent.com/assets/1082157/14292312/38a8a778-fb85-11e5-8b17-b0f3228643e4.jpg"></noscript>-->
+<!--{% img left https://cloud.githubusercontent.com/assets/1082157/14292312/38a8a778-fb85-11e5-8b17-b0f3228643e4.jpg Sarojini Girl %}-->
 
 
 <p>The only drawback about this market is that no trial rooms or changing rooms are available at street-side shops. You need to make use of art of bartering. The market is closed on Mondays.</p>
